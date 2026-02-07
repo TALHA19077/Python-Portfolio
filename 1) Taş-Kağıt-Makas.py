@@ -1,3 +1,4 @@
+# Proje 1: [Projenin Adı] - Portfolyo Güncellemesi 
 import random
 
 user_wins=0
